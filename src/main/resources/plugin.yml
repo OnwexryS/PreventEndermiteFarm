@@ -1,0 +1,4 @@
+name: PreventEndermiteFarm
+version: ${project.version}
+main: com.minerival.development.PreventEndermiteFarm
+api-version: 1.16
